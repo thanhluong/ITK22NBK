@@ -42,3 +42,9 @@
 - Ngày 23/04/2024:
   - [Codeforces Trò chơi](https://codeforces.com/group/G0iFI97YZN/contest/519012/problem/A)
   - [Codeforces Xâu nhị phân hoàn hảo](https://codeforces.com/group/G0iFI97YZN/contest/519012/problem/B)
+- Ngày 16/05/2024:
+  - [NBKOJ Hàng và cột](https://nbk.homes/problem/cwdswaprc)
+  - [NBKOJ Tổng nghịch thế](https://nbk.homes/problem/cwdpermuinv)
+- Ngày 18/05/2024:
+  - [NBKOJ Excel](https://nbk.homes/problem/mttnexcel)
+  - [NBKOJ Lập lịch công việc](https://nbk.homes/problem/cwdmachine)
