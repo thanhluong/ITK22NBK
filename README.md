@@ -48,3 +48,5 @@
 - Ngày 18/05/2024:
   - [NBKOJ Excel](https://nbk.homes/problem/mttnexcel)
   - [NBKOJ Lập lịch công việc](https://nbk.homes/problem/cwdmachine)
+- Ngày 21/05/2024:
+  - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/A)
