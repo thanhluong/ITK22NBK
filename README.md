@@ -51,3 +51,4 @@
 - Ngày 21/05/2024:
   - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/A)
   - [NBKOJ EOE](https://nbk.homes/problem/cwdeoe)
+  - [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
