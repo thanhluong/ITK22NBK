@@ -52,3 +52,7 @@
   - [Codeforces Kiểm tra tràn số](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/A)
   - [NBKOJ EOE](https://nbk.homes/problem/cwdeoe)
   - [VNOJ Mass of Molecule](https://oj.vnoi.info/problem/mmass)
+  - [Codeforces Xóa cặp trùng](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/B)
+  - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/C)
+  - [NBKOJ Định và Ami (bản dễ)](https://nbk.homes/problem/dapchaue)
+  - [NBKOJ Định và Ami (bản khó)](https://nbk.homes/problem/dapchauh)
