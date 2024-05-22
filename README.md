@@ -56,3 +56,5 @@
   - [Codeforces Dãy ngoặc hợp lệ](https://codeforces.com/group/G0iFI97YZN/contest/525202/problem/C)
   - [NBKOJ Định và Ami (bản dễ)](https://nbk.homes/problem/dapchaue)
   - [NBKOJ Định và Ami (bản khó)](https://nbk.homes/problem/dapchauh)
+- Ngày 23/05/2024:
+  - [VNOJ Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
