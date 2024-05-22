@@ -60,3 +60,4 @@
 - Ngày 23/05/2024:
   - [VNOJ Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
   - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
+  - [VNOJ Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)
