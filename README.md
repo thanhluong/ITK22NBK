@@ -61,3 +61,8 @@
   - [VNOJ Hình chữ nhật 0 1](https://oj.vnoi.info/problem/qbrect)
   - [Hackerrank Queue using Two Stacks](https://www.hackerrank.com/challenges/queue-using-two-stacks/problem)
   - [VNOJ Đếm hình chữ nhật trên bảng 0-1](https://oj.vnoi.info/problem/crec01)
+- Ngày 25/05/2024:
+  - [VNOJ Đếm các hình chữ nhật](https://oj.vnoi.info/problem/crect)
+  - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
+  - [VNOJ Quá Béo](https://oj.vnoi.info/problem/vmquabeo)
+  
