@@ -65,4 +65,7 @@
   - [VNOJ Đếm các hình chữ nhật](https://oj.vnoi.info/problem/crect)
   - [VNOJ Huyền thoại Lục Vân Tiên](https://oj.vnoi.info/problem/mink)
   - [VNOJ Quá Béo](https://oj.vnoi.info/problem/vmquabeo)
-  
+- Ngày 28/05/2024:
+  - [NBKOJ Cây vô hạn](https://nbk.homes/problem/inftree)
+  - [NBKOJ Xếp bóng](https://nbk.homes/problem/infball)
+  - [NBKOJ Xâu vô hạn](https://nbk.homes/problem/infstr) 
