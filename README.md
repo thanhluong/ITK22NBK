@@ -68,4 +68,9 @@
 - Ngày 28/05/2024:
   - [NBKOJ Cây vô hạn](https://nbk.homes/problem/inftree)
   - [NBKOJ Xếp bóng](https://nbk.homes/problem/infball)
-  - [NBKOJ Xâu vô hạn](https://nbk.homes/problem/infstr) 
+  - [NBKOJ Xâu vô hạn](https://nbk.homes/problem/infstr)
+- Ngày 30/05/2024:
+  - [NBKOJ Trò chơi hai lượt](https://nbk.homes/problem/cwdpgame)
+  - [NBKOJ Chèn dãy](https://nbk.homes/problem/cwdlink)
+  - [NBKOJ Vét cạn](https://nbk.homes/problem/cwdxorpair)
+  - [NBKOJ Vét hơi cạn](https://nbk.homes/problem/cwdbfs)
