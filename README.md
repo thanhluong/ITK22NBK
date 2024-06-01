@@ -75,6 +75,7 @@
   - [NBKOJ Vét cạn](https://nbk.homes/problem/cwdxorpair)
   - [NBKOJ Vét hơi cạn](https://nbk.homes/problem/cwdbfs)
 - Ngày 01/06/2024:
+  - [NBKOJ Cây chỉ số nhị phân](https://nbk.homes/problem/cwdfenwick)
   - [VNOJ Dãy nghịch thế](https://oj.vnoi.info/problem/nkinv)
   - [VNOJ Dãy con tăng dài nhất](https://oj.vnoi.info/problem/lis)
   - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
