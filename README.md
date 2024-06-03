@@ -81,4 +81,5 @@
   - [VNOJ Xây đập giữ vàng](https://oj.vnoi.info/problem/bgmine)
 - Ngày 04/06/2024:
   - [NBKOJ Truy vấn XOR](https://nbk.homes/problem/cwdxorq)
+  - [NBKOJ Tổng các hiệu](https://nbk.homes/problem/cwdsumdiff)
   - [VOI 2020 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/voi20_bonus)
