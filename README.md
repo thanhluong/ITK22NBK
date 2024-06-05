@@ -84,3 +84,6 @@
   - [NBKOJ Tổng các hiệu](https://nbk.homes/problem/cwdsumdiff)
   - [NBKOJ Evergreen Tree](https://nbk.homes/problem/cwdsubset)
   - [VOI 2020 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/voi20_bonus)
+- Ngày 06/06/2024:
+  - [NBKOJ Red Alert](https://nbk.homes/problem/cwdlogin)
+  - [NBKOJ Đếm dãy không giảm](https://nbk.homes/problem/cwdndseq)
