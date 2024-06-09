@@ -84,6 +84,14 @@
   - [NBKOJ Tổng các hiệu](https://nbk.homes/problem/cwdsumdiff)
   - [NBKOJ Evergreen Tree](https://nbk.homes/problem/cwdsubset)
   - [VOI 2020 Bài 1 - Phần thưởng](https://oj.vnoi.info/problem/voi20_bonus)
-- Ngày 06/06/2024:
+- Ngày 08/06/2024:
   - [NBKOJ Red Alert](https://nbk.homes/problem/cwdlogin)
   - [NBKOJ Đếm dãy không giảm](https://nbk.homes/problem/cwdndseq)
+- Ngày 11/06/2024:
+  - [Codeforces Assignment and Sum](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/A)
+  - [Codeforces Addition and Sum](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/B)
+  - [Codeforces Addition and Max](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/C)
+  - [Codeforces Assignment, Addition, and Sum](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/D)
+  - [Codeforces Segment with Maximum Sum](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/E)
+  - [Codeforces First element at least X](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/F)
+  - [Codeforces Polynomial Queries](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/G)
