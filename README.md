@@ -95,3 +95,5 @@
   - [Codeforces Segment with Maximum Sum](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/E)
   - [Codeforces First element at least X](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/F)
   - [Codeforces Polynomial Queries](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/G)
+- Ngày 13/06/2024:
+  - [VNOJ Diện tích hình chữ nhật](https://oj.vnoi.info/problem/area)
