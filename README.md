@@ -97,3 +97,7 @@
   - [Codeforces Polynomial Queries](https://codeforces.com/group/G0iFI97YZN/contest/529135/problem/G)
 - Ngày 13/06/2024:
   - [VNOJ Diện tích hình chữ nhật](https://oj.vnoi.info/problem/area)
+- Ngày 18/06/2024:
+  - [NBKOJ Các tập hợp rời nhau](https://nbk.homes/problem/cwddsu)
+  - [NBKOJ CSES Counting Rooms](https://nbk.homes/problem/cses1192)
+  - [VNOJ Yugi-Oh](https://oj.vnoi.info/problem/yugi)
