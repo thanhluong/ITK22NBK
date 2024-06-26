@@ -101,3 +101,12 @@
   - [NBKOJ Các tập hợp rời nhau](https://nbk.homes/problem/cwddsu)
   - [NBKOJ CSES Counting Rooms](https://nbk.homes/problem/cses1192)
   - [VNOJ Yugi-Oh](https://oj.vnoi.info/problem/yugi)
+- Ngày 27/06/2024:
+  - [VNOJ Gặm cỏ](https://oj.vnoi.info/problem/vmunch)
+  - [VOI 2006 Bài 2 - Quân tượng](https://oj.vnoi.info/problem/qbbishop)
+  - [VNOJ Mountain Walking](https://oj.vnoi.info/problem/mtwalk)
+  - [VNOJ Bảo vệ nông trang](https://oj.vnoi.info/problem/nkguard)
+  - [VNOJ Bộ ba cao thủ](https://oj.vnoi.info/problem/nktrio)
+  - [VNOJ Social Network](https://oj.vnoi.info/problem/vosnet)
+  - [VOI 2012 Bài 5 - Robocon](https://oj.vnoi.info/problem/robocon)
+
